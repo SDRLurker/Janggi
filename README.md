@@ -15,3 +15,6 @@
   - 게임에서 사용하는 리스트
 * Units.cpp
   - 장기 말들에 대한 메소드 함수 구현
+  
+## 다운로드
+* https://github.com/SDRLurker/Janggi/releases/download/1.0/Janggi.exe
